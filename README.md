@@ -26,6 +26,6 @@ print(ng_lgas.get_by_state_code('KW'))
 ### Running Tests
 
 ```shell
-python 
+python -m unittest
 ```
 

@@ -18,6 +18,6 @@ Contributions via Pull Requests on [Github](https://github.com/michaelokuboyejo/
 
 ## Running Tests
 
-```bash
+```shell
 python -m unittest
 ```
