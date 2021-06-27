@@ -1,0 +1,5420 @@
+[
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Aba North",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Aba South",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Arochukwu",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Bende",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Ikwuano",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Isiala Ngwa North",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Isiala Ngwa South",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Isuikwuato",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Obingwa",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Ohafia",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Osisioma",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Ugwunagbo",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Ukwa East",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Ukwa  West",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Umuahia North",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Umuahia  South",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AB",
+    "State": "Abia",
+    "LGA": "Umu - Nneochi",
+    "Latitude": 5.4308921,
+    "Longitude": 7.5247243
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Demsa",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Fufore",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Ganye",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Gire 1",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Gombi",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Guyuk",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Hong",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Jada",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Lamurde",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Madagali",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Maiha",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Mayo - Belwa",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Michika",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Mubi North",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Mubi South",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Numan",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Shelleng",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Song",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Toungo",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Yola North",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AD",
+    "State": "Adamawa",
+    "LGA": "Yola South",
+    "Latitude": 9.3250497,
+    "Longitude": 12.4380581
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Abak",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Eastern Obolo",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Eket",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Esit Eket (uquo)",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Essien Udim",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Etim Ekpo",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Etinan",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Ibeno",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Ibesikpo Asutan",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Ibiono Ibom",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Ika",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Ikono",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Ikot Abasi",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Ikot Ekpene",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Ini",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Itu",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Mbo",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Mkpat Enin",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Nsit Atai",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Nsit Ibom",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Nsit Ubium",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Obot Akara",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Okobo",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Onna",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Oron",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Oruk Anam",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Udung Uko",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Ukanafun",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Uruan",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Urue Offong/oruko",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AK",
+    "State": "Akwa Ibom",
+    "LGA": "Uyo",
+    "Latitude": 4.9299869,
+    "Longitude": 7.87216
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Aguata",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Ayamelum",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Anambra East",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Anambra West",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Anaocha",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Awka North",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Awka South",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Dunukofia",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Ekwusigo",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Idemili North",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Idemili-south",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Ihala",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Njikoka",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Nnewi North",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Nnewi South",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Ogbaru",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Onitsha-north",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Onitsha -south",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Orumba North",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Orumba  South",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "AN",
+    "State": "Anambra",
+    "LGA": "Oyi",
+    "Latitude": 6.2757656,
+    "Longitude": 7.0068393
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Alkaleri",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Bauchi",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Bogoro",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Dambam",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Darazo",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Dass",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Gamawa",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Ganjuwa",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Giade",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Itas/gadau",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "JAMA'ARE",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Katagum",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Kirfi",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Misau",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Ningi",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Shira",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Tafawa Balewa",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Toro",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Warji",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BA",
+    "State": "Bauchi",
+    "LGA": "Zaki",
+    "Latitude": 10.30982,
+    "Longitude": 9.845172
+  },
+  {
+    "StateCode": "BY",
+    "State": "Bayelsa",
+    "LGA": "Brass",
+    "Latitude": 4.8677767,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "BY",
+    "State": "Bayelsa",
+    "LGA": "Ekeremor",
+    "Latitude": 4.8677767,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "BY",
+    "State": "Bayelsa",
+    "LGA": "Kolokuma/opokuma",
+    "Latitude": 4.8677767,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "BY",
+    "State": "Bayelsa",
+    "LGA": "Nembe",
+    "Latitude": 4.8677767,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "BY",
+    "State": "Bayelsa",
+    "LGA": "Ogbia",
+    "Latitude": 4.8677767,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "BY",
+    "State": "Bayelsa",
+    "LGA": "Sagbama",
+    "Latitude": 4.8677767,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "BY",
+    "State": "Bayelsa",
+    "LGA": "Southern Ijaw",
+    "Latitude": 4.8677767,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "BY",
+    "State": "Bayelsa",
+    "LGA": "Yenagoa",
+    "Latitude": 4.8677767,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Ado",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Agatu",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Apa",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Buruku",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Gboko",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Guma",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Gwer East",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Gwer West",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Katsina-ala",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Konshisha",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Kwande",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Logo",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Makurdi",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Obi",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Ogbadibo",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Oju",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Ohimini",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Okpokwu",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Otukpo",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Tarka",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Ukum",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Ushongo",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BN",
+    "State": "Benue",
+    "LGA": "Vandeikya",
+    "Latitude": 7.3508259,
+    "Longitude": 8.8362755
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Abadam",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Askira / Uba",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Bama",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Bayo",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Biu",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Chibok",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Damboa",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Dikwa",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Gubio",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Guzamala",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Gwoza",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Hawul",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Jere",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Kaga",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Kala Balge",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Konduga",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Kukawa",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Kwaya / Kusar",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Mafa",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Magumeri",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Maiduguri M. C.",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Marte",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Mobbar",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Monguno",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Ngala",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Nganzai",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "BO",
+    "State": "Borno",
+    "LGA": "Shani",
+    "Latitude": 12.1205201,
+    "Longitude": 13.1740348
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Abi",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Akamkpa",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Akpabuyo",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Bakassi",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Bekwarra",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Biase",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Boki",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Calabar Municipality",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Calabar South",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Etung",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Ikom",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Obanliku",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Obubra",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Obudu",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Odukpani",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Ogoja",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Yakurr",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "CR",
+    "State": "Cross River",
+    "LGA": "Yala",
+    "Latitude": 5.5805318,
+    "Longitude": 8.7481167
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Aniocha North",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Aniocha - South",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Bomadi",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Burutu",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Ethiope  East",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Ethiope  West",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Ika North- East",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Ika - South",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Isoko North",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Isoko South",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Ndokwa East",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Ndokwa West",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Okpe",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Oshimili - North",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Oshimili - South",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Patani",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Sapele",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Udu",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Ughelli North",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Ughelli South",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Ukwuani",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Uvwie",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Warri  North",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Warri South",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "DT",
+    "State": "Delta",
+    "LGA": "Warri South  West",
+    "Latitude": 5.5324624,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Abakaliki",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Afikpo North",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Afikpo  South",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Ebonyi",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Ezza North",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Ezza South",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Ikwo",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Ishielu",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Ivo",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Izzi",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Ohaozara",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Ohaukwu",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "EB",
+    "State": "Ebonyi",
+    "LGA": "Onicha",
+    "Latitude": 6.177973,
+    "Longitude": 7.9592863
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Akoko Edo",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Egor",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Esan Central",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Esan North East",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Esan South East",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Esan West",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Etsako Central",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Etsako East",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Etsako  West",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Igueben",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Ikpoba/okha",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Oredo",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Orhionmwon",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Ovia North East",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Ovia South West",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Owan East",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Owan West",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "ED",
+    "State": "Edo",
+    "LGA": "Uhunmwode",
+    "Latitude": 6.5438101,
+    "Longitude": 5.8987139
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ado Ekiti",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Efon",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ekiti East",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ekiti West",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ekiti South West",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Emure",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Gbonyin",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ido / Osi",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ijero",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ikere",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ikole",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ilejemeje",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Irepodun / Ifelodun",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Ise / Orun",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Moba",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EK",
+    "State": "Ekiti",
+    "LGA": "Oye",
+    "Latitude": 7.6655813,
+    "Longitude": 5.3102505
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Aninri",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Awgu",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Enugu East",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Enugu North",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Enugu South",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Ezeagu",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Igbo Etiti",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Igbo Eze North",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Igbo Eze South",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Isi Uzo",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Nkanu East",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Nkanu West",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Nsukka",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Oji-river",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Udenu",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Udi",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "EN",
+    "State": "Enugu",
+    "LGA": "Uzo-uwani",
+    "Latitude": 6.4526667,
+    "Longitude": 7.5103333
+  },
+  {
+    "StateCode": "FC",
+    "State": "Fct",
+    "LGA": "Abaji",
+    "Latitude": 8.8556838,
+    "Longitude": 7.179026
+  },
+  {
+    "StateCode": "FC",
+    "State": "Fct",
+    "LGA": "Bwari",
+    "Latitude": 8.8556838,
+    "Longitude": 7.179026
+  },
+  {
+    "StateCode": "FC",
+    "State": "Fct",
+    "LGA": "Gwagwalada",
+    "Latitude": 8.8556838,
+    "Longitude": 7.179026
+  },
+  {
+    "StateCode": "FC",
+    "State": "Fct",
+    "LGA": "Kuje",
+    "Latitude": 8.8556838,
+    "Longitude": 7.179026
+  },
+  {
+    "StateCode": "FC",
+    "State": "Fct",
+    "LGA": "Kwali",
+    "Latitude": 8.8556838,
+    "Longitude": 7.179026
+  },
+  {
+    "StateCode": "FC",
+    "State": "Fct",
+    "LGA": "Municipal",
+    "Latitude": 8.8556838,
+    "Longitude": 7.179026
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Akko",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Balanga",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Billiri",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Dukku",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Funakaye",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Gombe",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Kaltungo",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Kwami",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Nafada",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Shongom",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "GM",
+    "State": "Gombe",
+    "LGA": "Yalmaltu/ Deba",
+    "Latitude": 10.2824,
+    "Longitude": 11.17479
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Aboh Mbaise",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Ahiazu Mbaise",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Ehime Mbano",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Ezinihitte Mbaise",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Ideato North",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Ideato South",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Ihitte/uboma (isinweke)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Ikeduru (iho)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Isiala Mbano (umuelemai)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Isu (umundugba)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Mbaitoli (nwaorieubi)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Ngor Okpala (umuneke)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Njaba (nnenasa)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Nkwerre",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Nwangele (onu-nwangele Amaigbo)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Obowo (otoko)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Oguta (oguta)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Ohaji/egbema (mmahu-egbema)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Okigwe  (okigwe)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Onuimo (okwe)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Orlu",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Orsu (awo Idemili)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Oru-east",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Oru West (mgbidi)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Owerri Municipal",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Owerri North (orie Uratta)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "IM",
+    "State": "Imo",
+    "LGA": "Owerri West (umuguma)",
+    "Latitude": 5.5214533,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Auyo",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Babura",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Birnin Kudu",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Birniwa",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Buji",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Dutse",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Garki",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Gagarawa",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Gumel",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Guri",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Gwaram",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Gwiwa",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Hadejia",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Jahun",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Kafin Hausa",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Kaugama",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Kazaure",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Kirika Samma",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Kiyawa",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Maigatari",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Malam Madori",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Miga",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Ringim",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Roni",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Sule-tankarkar",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Taura",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "JG",
+    "State": "Jigawa",
+    "LGA": "Yankwashi",
+    "Latitude": 12.4460001,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Birnin Gwari",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Chikun",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Giwa",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Igabi",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Ikara",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Jaba",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "JEMA'A",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Kachia",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Kaduna North",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Kaduna South",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Kagarko",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Kajuru",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Kaura",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Kauru",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Kubau",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Kudan",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Lere",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Makarfi",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Sabon Gari",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Sanga",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Soba",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Zangon Kataf",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KD",
+    "State": "Kaduna",
+    "LGA": "Zaria",
+    "Latitude": 10.5166667,
+    "Longitude": 7.4333333
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Ajingi",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Albasu",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Bagwai",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Bebeji",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Bichi",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Bunkure",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Dala",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Danbata",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Dawaki Kudu",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Dawaki Tofa",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Doguwa",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Fagge",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Gabasawa",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Garko",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Garun Malam",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Gaya",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Gezawa",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Gwale",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Gwarzo",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Kabo",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Kano Municipal",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Karaye",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Kibiya",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Kiru",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Kumbotso",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Kunchi",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Kura",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Madobi",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Makoda",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Minjibir",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Nasarawa",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Rano",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Rimin Gado",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Rogo",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Shanono",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Sumaila",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Takai",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Tarauni",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Tofa",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Tsanyawa",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Tudun Wada",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Ungogo",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Warawa",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KN",
+    "State": "Kano",
+    "LGA": "Wudil",
+    "Latitude": 12,
+    "Longitude": 8.516667
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Bakori",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Batagarawa",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Batsari",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Baure",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Bindawa",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Charanchi",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Dandume",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Danja",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Dan Musa",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Daura",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Dutsi",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Dutsin-ma",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Faskari",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Funtua",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Ingawa",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Jibia",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Kafur",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Kaita",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Kankara",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Kankia",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Katsina",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Kurfi",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Kusada",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "MAI'ADUA",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Malufashi",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Mani",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Mashi",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Matazu",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Musawa",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Rimi",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Sabuwa",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Safana",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Sandamu",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KT",
+    "State": "Katsina",
+    "LGA": "Zango",
+    "Latitude": 12.99302,
+    "Longitude": 7.606163
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Aliero",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Arewa",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Argungu",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Augie",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Bagudo",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Birnin Kebbi",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Bunza",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Dandi",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Fakai",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Gwandu",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Jega",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Kalgo",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Koko/besse",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Maiyama",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Ngaski",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Sakaba",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Shanga",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Suru",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Wasagu/danko",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Yauri",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KB",
+    "State": "Kebbi",
+    "LGA": "Zuru",
+    "Latitude": 11.6781241,
+    "Longitude": 4.0695454
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Adavi",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Ajaokuta",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Ankpa",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Bassa",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Dekina",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Ibaji",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Idah",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Igalamela/odolu",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Ijumu",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Kabba/bunu",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Kogi . K. K.",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Lokoja",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Mopa Moro",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Ofu",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Ogori Mangogo",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Okehi",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Okene",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Olamaboro",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Omala",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Yagba East",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KG",
+    "State": "Kogi",
+    "LGA": "Yagba West",
+    "Latitude": 7.561891,
+    "Longitude": 6.5783387
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Asa",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Baruten",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Edu",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Ekiti",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Ifelodun",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Ilorin East",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Ilorin-south",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Ilorin-west",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Irepodun",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Isin",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Kaiama",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Moro",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Offa",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Oke - Ero",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Oyun",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "KW",
+    "State": "Kwara",
+    "LGA": "Patigi",
+    "Latitude": 8.9847995,
+    "Longitude": 4.5624426
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Agege",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Ajeromi/ifelodun",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Alimosho",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Amuwo-odofin",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Apapa",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Badagry",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Epe",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Eti-osa",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Ibeju/lekki",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Ifako-ijaye",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Ikeja",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Ikorodu",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Kosofe",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Lagos Island",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Lagos Mainland",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Mushin",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Ojo",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Oshodi/isolo",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Somolu",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "LA",
+    "State": "Lagos",
+    "LGA": "Surulere",
+    "Latitude": 6.4530556,
+    "Longitude": 3.3958333
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Akwanga",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Awe",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Doma",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Karu",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Keana",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Keffi",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Kokona",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Lafia",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Nasarawa",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Nasarawa Eggon",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Obi",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Toto",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NS",
+    "State": "Nasarawa",
+    "LGA": "Wamba",
+    "Latitude": 8.5474692,
+    "Longitude": 7.7118003
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Agaie",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Agwara",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Bida",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Borgu",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Bosso",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Chanchaga",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Edatti",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Gbako",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Gurara",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Katcha",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Kontagora",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Lapai",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Lavun",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Magama",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Mariga",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Mashegu",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Mokwa",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Munya",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Paikoro",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Rafi",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Rijau",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Shiroro",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Suleja",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Tafa",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "NG",
+    "State": "Niger",
+    "LGA": "Wushishi",
+    "Latitude": 9.607762,
+    "Longitude": 6.553394
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Abeokuta North",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Abeokuta South",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ado Odo-ota",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Egbado North",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Egbado South",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ewekoro",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ifo",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ijebu East",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ijebu North",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ijebu North East",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ijebu Ode",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ikenne",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Imeko/afon",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ipokia",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Obafemi/owode",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Odeda",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Odogbolu",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Ogun Water Side",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Remo North",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OG",
+    "State": "Ogun",
+    "LGA": "Sagamu",
+    "Latitude": 6.9098333,
+    "Longitude": 3.2583626
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Akoko North East",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Akoko North West",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Akoko South East",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Akoko South West",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Akure North",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Akure South",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Ese-odo",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Idanre",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Ifedore",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Ilaje",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Ileoluji/okeigbo",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Irele",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Odigbo",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Okitipupa",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Ondo East",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Ondo West",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Ose",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OD",
+    "State": "Ondo",
+    "LGA": "Owo",
+    "Latitude": 7.088721,
+    "Longitude": 4.838763
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Atakumosa East",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Atakumosa West",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ayedaade",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ayedire",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Boluwaduro",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Boripe",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ede North",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ede South",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Egbedore",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ejigbo",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ife Central",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ifedayo",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ife East",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ifelodun",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ife North",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ife South",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ila",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ilesa East",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ilesa West",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Irepodun",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Irewole",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Isokan",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Iwo",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Obokun",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Odo-otin",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Ola-oluwa",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Olorunda",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Oriade",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Orolu",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OS",
+    "State": "Osun",
+    "LGA": "Osogbo",
+    "Latitude": 7.983333,
+    "Longitude": 5.083333
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Afijio",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Akinyele",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Atiba",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Atisbo",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Egbeda",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ibadan North",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ibadan North East",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ibadan North West",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ibadan South-east",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ibadan South West",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ibarapa Central",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ibarapa East",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ibarapa North",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ido",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Irepo",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Iseyin",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Itesiwaju",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Iwajowa",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Kajola",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Lagelu",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ogbomoso North",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ogbomoso South",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ogo-oluwa",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Olorunsogo",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Oluyole",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ona-ara",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Oorelope",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Ori Ire",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Oyo East",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Oyo West",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Saki East",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Saki West",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "OY",
+    "State": "Oyo",
+    "LGA": "Surulere",
+    "Latitude": 7.837154,
+    "Longitude": 3.934652
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Jos North",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Barikin Ladi",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Bassa",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Bokkos",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Jos East",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Jos South",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Kanam",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Kanke",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Langtang North",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Langtang South",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Mangu",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Mikang",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Pankshin",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "QUA'AN PAN",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Riyom",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Shendam",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "PL",
+    "State": "Plateau",
+    "LGA": "Wase",
+    "Latitude": 9.2350817,
+    "Longitude": 9.7232673
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Abua-odual",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Ahoada East",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Ahoada West",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Akuku Toru",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Andoni",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Asari-toru",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Bonny",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Degema",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Eleme",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Emohua",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Etche",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Gokana",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Ikwerre",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Khana",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Obio/akpor",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Ogba/egbema/ndoni",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Ogu/bolo",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Okrika",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Omuma",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Opobo/nekoro",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Oyigbo",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Port Harcourt",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "RV",
+    "State": "Rivers",
+    "LGA": "Tai",
+    "Latitude": 4.8580767,
+    "Longitude": 6.9209135
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Binji",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Bodinga",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Dange/shuni",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Gada",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Goronyo",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Gudu",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Gwadabawa",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Illela",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Isa",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Kware",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Kebbe",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Rabah",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "S/birni",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Shagari",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Silame",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Sokoto North",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Sokoto South",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Tambuwal",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Tangaza",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Tureta",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Wamakko",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Wurno",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "SO",
+    "State": "Sokoto",
+    "LGA": "Yabo",
+    "Latitude": 13.0666667,
+    "Longitude": 5.2333333
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Ardo - Kola",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Bali",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Donga",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Gashaka",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Gassol",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Ibi",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Jalingo",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Karim-lamido",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Kurmi",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Lau",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Sardauna",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Takum",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Ussa",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Wukari",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Yorro",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "TR",
+    "State": "Taraba",
+    "LGA": "Zing",
+    "Latitude": 7.9868755,
+    "Longitude": 10.9807003
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Bade",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Bursari",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Damaturu",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Fika",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Fune",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Geidam",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Gujba",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Gulani",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Jakusko",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Karasawa",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Machina",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Nangere",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Nguru",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Potiskum",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Tarmuwa",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Yunusari",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "YB",
+    "State": "Yobe",
+    "LGA": "Yusufari",
+    "Latitude": 12.1871412,
+    "Longitude": 11.7068294
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Anka",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Bakura",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Birnin Magaji",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Bukkuyum",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Bungudu",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Gummi",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Gusau",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Kaura Namoda",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Maradun",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Maru",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Shinkafi",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Talata Mafara",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Tsafe",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  },
+  {
+    "StateCode": "ZM",
+    "State": "Zamfara",
+    "LGA": "Zurmi",
+    "Latitude": 12.1844159,
+    "Longitude": 6.2375947
+  }
+]

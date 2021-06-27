@@ -1,0 +1,12 @@
+language: python
+python:
+  - '3.6.1'
+install:
+  - pip install -e .
+    # python-coveralls requires coverage 3.
+    # See https://github.com/z4r/python-coveralls/pull/41
+  - pip install coverage==3.7.1
+script:
+  - python -m unittest
+after_success:
+  - coveralls
